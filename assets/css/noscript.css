@@ -1,0 +1,36 @@
+/*
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* BG */
+
+body.is-preload #bg:before {
+    background-color: transparent;
+    background-image: url("https://s1.ax1x.com/2022/11/20/zMAkKe.jpg");
+}
+
+/* Header */
+
+body.is-preload #header {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+body.is-preload #header > * {
+    opacity: 1;
+}
+
+body.is-preload #header .content .inner {
+    max-height: none;
+    padding: 3rem 2rem;
+    opacity: 1;
+}
+
+/* Main */
+
+#main article {
+    opacity: 1;
+    margin: 4rem 0 0 0;
+}
