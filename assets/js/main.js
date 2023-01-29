@@ -4,14 +4,6 @@
         Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-var _hmt = _hmt || [];
-(function () {
-	var hm = document.createElement("script");
-	hm.src = "https://hm.baidu.com/hm.js?e1e69750a0a4747369ef4f57e2c4ac01";
-	var s = document.getElementsByTagName("script")[0];
-	s.parentNode.insertBefore(hm, s);
-})();
-
 (function ($) {
 	var $window = $(window),
 		$body = $('body'),

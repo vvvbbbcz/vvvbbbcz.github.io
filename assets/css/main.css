@@ -162,17 +162,15 @@ html {
 }
 
 @media screen and (max-width: 1680px) {
-
     html {
-        font-size: 12pt;
+        font-size: 14pt;
     }
-
 }
 
 @media screen and (max-width: 736px) {
 
     html {
-        font-size: 11pt;
+        font-size: 12pt;
     }
 
 }
@@ -518,27 +516,21 @@ body.is-preload #bg:before {
 }
 
 @media screen and (max-width: 1680px) {
-
     #wrapper {
         padding: 3rem 2rem;
     }
-
 }
 
 @media screen and (max-width: 736px) {
-
     #wrapper {
         padding: 2rem 1rem;
     }
-
 }
 
 @media screen and (max-width: 480px) {
-
     #wrapper {
         padding: 1rem;
     }
-
 }
 
 /* Header */
@@ -760,8 +752,7 @@ body.is-preload #header .content .inner {
 
 }
 
-@media screen and (max-width: 480px) {
-
+@media screen and (max-width: 590px) {
     #header {
         padding: 1.5rem 0;
     }
@@ -798,7 +789,6 @@ body.is-preload #header .content .inner {
     #header nav.use-middle:after {
         display: none;
     }
-
 }
 
 /* Main */
